@@ -1,7 +1,7 @@
 {
   "name": "utahsdjs/utahsdjs2025",
   "description": "description",
-  "minimum-stability": "stable",
+  "minimum-stability": "unstable",
   "version": "0.0.1",
   "license": "proprietary",
   "authors": [

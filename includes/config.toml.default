@@ -1,7 +1,7 @@
 [app]
 name = "DJ Mix Hosting Software"
 logo = "about:blank"
-document_root = "/home/utahsdjs/web/beta.utahsdjs.com/public_html/"
+document_root = "/var/www/html/"
 timezone = "America/Los_Angeles"
 locale = "en_US"
 

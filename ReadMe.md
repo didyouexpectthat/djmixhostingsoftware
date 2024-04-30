@@ -1,0 +1,1 @@
+[![Crowdin](https://badges.crowdin.net/djmixhostingsoftware/localized.svg)](https://crowdin.com/project/djmixhostingsoftware)
