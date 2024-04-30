@@ -1,0 +1,30 @@
+[app]
+name = "DJ Mix Hosting Software"
+logo = "about:blank"
+document_root = "/home/utahsdjs/web/beta.utahsdjs.com/public_html/"
+timezone = "America/Los_Angeles"
+locale = "en_US"
+
+[database]
+type = "mysql"
+host = "localhost"
+port = 3306
+user = "username"
+password = "password"
+prefix = ""
+file = "app.db"
+
+[notifications]
+
+[notifications.telegram]
+token = "telegram:token"
+chat_id = "1234567890"
+
+[seo]
+yandex = false
+google = false
+bing = false
+baidu = false
+
+[seo.crawlers]
+yandex_id = "a1b2c3d4f5g6h7"
